@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
 .holder {
-	heigth: 100%;
-	width: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	heigth: 100%;
+	width: 100%;
 }
 
 .item {
